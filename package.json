@@ -1,0 +1,21 @@
+{
+  "name": "coursera-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math_operations.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikatgh/coursera-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikatgh/coursera-javascript/issues"
+  },
+  "homepage": "https://github.com/alikatgh/coursera-javascript#readme"
+}
